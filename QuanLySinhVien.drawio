@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T05:49:47.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" version="21.8.2" etag="cnl6sIem0jIFa8R7JtI2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T07:52:08.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="uidyjbP7fFKqHBq91bgH" version="21.8.2" type="github">
   <diagram name="Page-1" id="XyqDMugZgnEbgbt_cLhM">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mtYMPltPAbwPVgCaOk68-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Person&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;+ String email&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;+ String hoVaTen&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Int namSinh&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;String gioiTinh&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;String soDienThoai&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;String diaChi&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;String hienThiThongTin()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;String thayDoiSoDienThoai()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;String thayDoiDiaChi()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="160" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
